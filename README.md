@@ -11,7 +11,7 @@
 
 ## [👤] About Abyssos
 
-<p align="justify">Abyssos is a research-focused ransomware/wiper hybrid prototype designed to support malware analysts, DFIR practitioners, and detection engineers in studying modern ransomware behavior in a controlled environment. This sample demonstrates realistic attacker techniques—ranging from file encryption, obfuscation, and discovery to registry modification and environmental persistence—without shipping source code, minimizing the risk of misuse.</p>
+<p align="justify">Abyssos is a research-focused ransomware/wiper hybrid prototype designed to support malware analysts, DFIR practitioners, and detection engineers in studying modern ransomware behavior in a controlled environment. This sample demonstrates realistic attacker techniques, ranging from file encryption, obfuscation, and discovery to registry modification and environmental persistence (without shipping source code, minimizing the risk of misuse).</p>
 
 ## [📃] High-level Summary
 
