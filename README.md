@@ -6,6 +6,15 @@
 
 </p>
 
+---
+
+<p align="center">
+  <a href="https://en.wikipedia.org/wiki/C_(programming_language)"><img src="https://img.shields.io/badge/C_Based-0D1164"></a>
+  <a href="https://en.wikipedia.org/wiki/Ransomware"><img src="https://img.shields.io/badge/Ransomware-76153C"></a>
+  <a href="https://en.wikipedia.org/wiki/Salsa20#ChaCha_variant" target="_blank"><img src="https://img.shields.io/badge/ChaCha-Stream_Ciphers-FF6C0C"></a>
+  <a href=""><img src="https://img.shields.io/badge/DFIR-Assessment_Purpose-640D5F"></a>
+</p>
+
 > [!CAUTION]
 > This repository contains a compiled binary sample of Abyssos, a research-focused ransomware prototype created strictly for security analysis, malware research training, and defensive development. Do NOT execute this binary on any production, personal, or non-isolated environment. Use only inside a controlled sandbox, isolated VM, or malware lab.
 
